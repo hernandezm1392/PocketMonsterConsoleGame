@@ -1,7 +1,7 @@
 
     public enum DirectionSelection
     {
-        left =1,
+        left,
         right,
         straight,
         backwards

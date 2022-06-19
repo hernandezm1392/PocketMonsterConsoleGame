@@ -1,0 +1,12 @@
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/dotnetProjects/projects/Console Game/src/PocketMonster.Data/bin/Debug/net6.0/PocketMonster.Data.deps.json
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/dotnetProjects/projects/Console Game/src/PocketMonster.Data/bin/Debug/net6.0/PocketMonster.Data.dll
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/dotnetProjects/projects/Console Game/src/PocketMonster.Data/bin/Debug/net6.0/ref/PocketMonster.Data.dll
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/dotnetProjects/projects/Console Game/src/PocketMonster.Data/bin/Debug/net6.0/PocketMonster.Data.pdb
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/dotnetProjects/projects/Console Game/src/PocketMonster.Data/obj/Debug/net6.0/PocketMonster.Data.csproj.AssemblyReference.cache
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/dotnetProjects/projects/Console Game/src/PocketMonster.Data/obj/Debug/net6.0/PocketMonster.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/dotnetProjects/projects/Console Game/src/PocketMonster.Data/obj/Debug/net6.0/PocketMonster.Data.AssemblyInfoInputs.cache
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/dotnetProjects/projects/Console Game/src/PocketMonster.Data/obj/Debug/net6.0/PocketMonster.Data.AssemblyInfo.cs
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/dotnetProjects/projects/Console Game/src/PocketMonster.Data/obj/Debug/net6.0/PocketMonster.Data.csproj.CoreCompileInputs.cache
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/dotnetProjects/projects/Console Game/src/PocketMonster.Data/obj/Debug/net6.0/PocketMonster.Data.dll
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/dotnetProjects/projects/Console Game/src/PocketMonster.Data/obj/Debug/net6.0/ref/PocketMonster.Data.dll
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/dotnetProjects/projects/Console Game/src/PocketMonster.Data/obj/Debug/net6.0/PocketMonster.Data.pdb

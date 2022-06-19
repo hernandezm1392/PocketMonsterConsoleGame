@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "PocketMonster.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/PocketMonster.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PocketMonster.Data.dll": {}
+        }
+      },
+      "PocketMonster.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "PocketMonster.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PocketMonster.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PocketMonster.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PocketMonster.Data/1.0.0": {
+      "type": "project",
+      "path": "../PocketMonster.Data/PocketMonster.Data.csproj",
+      "msbuildProject": "../PocketMonster.Data/PocketMonster.Data.csproj"
+    },
+    "PocketMonster.Repository/1.0.0": {
+      "type": "project",
+      "path": "../PocketMonster.Repository/PocketMonster.Repository.csproj",
+      "msbuildProject": "../PocketMonster.Repository/PocketMonster.Repository.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "PocketMonster.Data >= 1.0.0",
+      "PocketMonster.Repository >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/mikeh/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/dotnetProjects/projects/Console Game/src/PocketMonster.UI/PocketMonsters.UI.csproj",
+      "projectName": "PocketMonsters.UI",
+      "projectPath": "/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/dotnetProjects/projects/Console Game/src/PocketMonster.UI/PocketMonsters.UI.csproj",
+      "packagesPath": "/Users/mikeh/.nuget/packages/",
+      "outputPath": "/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/dotnetProjects/projects/Console Game/src/PocketMonster.UI/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/mikeh/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/dotnetProjects/projects/Console Game/src/PocketMonster.Data/PocketMonster.Data.csproj": {
+              "projectPath": "/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/dotnetProjects/projects/Console Game/src/PocketMonster.Data/PocketMonster.Data.csproj"
+            },
+            "/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/dotnetProjects/projects/Console Game/src/PocketMonster.Repository/PocketMonster.Repository.csproj": {
+              "projectPath": "/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/dotnetProjects/projects/Console Game/src/PocketMonster.Repository/PocketMonster.Repository.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.104/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
