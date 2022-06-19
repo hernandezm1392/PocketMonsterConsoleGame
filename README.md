@@ -8,7 +8,7 @@
 ## **MIKE HERNANDEZ:**
     [GitHub](https://github.com/hernandezm1392/PocketMonsterConsoleGame)
     -UI
-        - [6/14] [Assisted in mapping of game direction and ]
+        - [6/14] [Assisted in mapping of game direction]
         - [6/17] [Assisted in creation of battle system and element referencing]
         - [6/17] [Assisted in direction of new concept change]
         - [6/18] [Assisted in debugging and created README and pushed final to github]
